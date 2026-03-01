@@ -1,6 +1,6 @@
 # Hi, I'm Anna Kapanadze 👋
 
-### AI Conversion Student | Media & Journalism Background | Pop Culture Researcher
+### AI MSc | Media & Journalism Background | Pop Culture Researcher
 
 ---
 
