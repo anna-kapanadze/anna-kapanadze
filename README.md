@@ -4,7 +4,7 @@
 
 ---
 
-## 🔬 What I'm Exploring
+## What I'm Exploring
 My research sits at the intersection of **Pop Culture**, **Media Theory**, and **Technical AI Implementation**. 
 
 -  **Currently Learning:** Principles of Machine Learning, Statistical Foundations, and Python for AI.
