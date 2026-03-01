@@ -1,28 +1,28 @@
 # Hi, I'm Anna Kapanadze 👋
 
-### 🤖 AI Conversion Student | 📰 Media & Journalism Background | 🎬 Pop Culture Researcher
+### AI Conversion Student | Media & Journalism Background | Pop Culture Researcher
 
 ---
 
 ## 🔬 What I'm Exploring
 My research sits at the intersection of **Pop Culture**, **Media Theory**, and **Technical AI Implementation**. 
 
-- 📈 **Currently Learning:** Principles of Machine Learning, Statistical Foundations, and Python for AI.
-- ⚖️ **Focus Area:** AI Ethics, Regulation, and the societal status of digital entities.
-- 🍿 **Passions:** Avid reader of sci-fi/fantasy and non-fiction AI literature. Big fan of cinematic AI tropes.
+-  **Currently Learning:** Principles of Machine Learning, Statistical Foundations, and Python for AI.
+-  **Focus Area:** AI Ethics, Regulation, and the societal status of digital entities.
+-  **Passions:** Avid reader of sci-fi/fantasy and non-fiction AI literature. Big fan of cinematic AI tropes.
 
-## 🛠️ Current Projects
+## Current Projects
 - [**AI-Media-Perception**](https://github.com/anna-kapanadze/ai-media-perception): Analysing sentiment in AI-themed cinema and literature.
 - **Hate-Watch Algorithmic Audit:** (Coming Soon) Exploring how media landscapes transform engagement into industry.
 
-## 📚 Currently Reading
+## Currently Reading
 - *Currently diving into:* Your Face Belongs to Us: The Secretive AI Startup Dismantling Your Privacy By Kashmir Hill.
 - *Technical focus:* AI Ethics
 
 ---
 
 ### Let's Connect!
-- 💼 [LinkedIn] (linkedin.com/in/anna-kapanadze)
+- [LinkedIn] (linkedin.com/in/anna-kapanadze)
 - 📍 Based in London, UK
 
 <!-----
