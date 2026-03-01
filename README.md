@@ -22,7 +22,7 @@ My research sits at the intersection of **Pop Culture**, **Media Theory**, and *
 ---
 
 ### Let's Connect!
-- [LinkedIn] (linkedin.com/in/anna-kapanadze)
+- LinkedIn:www.linkedin.com/in/anna-kapanadze
 - 📍 Based in London, UK
 
 <!-----
