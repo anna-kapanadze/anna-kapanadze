@@ -1,6 +1,6 @@
 # Hi, I'm Anna Kapanadze 👋
 
-### AI MSc | Media & Journalism Background | "Pop Culturist"
+### AI MSc | Media & Journalism | "Pop Culturist"
 
 ---
 
