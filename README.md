@@ -1,29 +1,29 @@
 # Hi, I'm Anna Kapanadze 👋
 
-### AI MSc | Media & Journalism Background | Pop Culture Researcher
+### AI MSc | Media & Journalism Background | "Pop Culturist"
 
 ---
 
 ## What I'm Exploring
-My research sits at the intersection of **Pop Culture**, **Media Theory**, and **Technical AI Implementation**. 
+My research sits at the intersection of **AI**, **Pop Culture**, and **Media Theory**
 
--  **Currently Learning:** Principles of Machine Learning, Statistical Foundations, and Python for AI.
--  **Focus Area:** AI Ethics, Regulation, and the societal status of digital entities.
--  **Passions:** Avid reader of sci-fi/fantasy and non-fiction AI literature. Big fan of cinematic AI tropes.
+-  **Currently Learning:** Machine Learning, Statistical Foundations, & Python for AI.
+-  **Focus Area:** AI Ethics & Regulation.
+-  **Passions:** Avid reader of fantasy/sci-fi and non-fiction AI literature. Big fan of film, and cinematic AI tropes.
 
 ## Current Projects
 - [**AI-Media-Perception**](https://github.com/anna-kapanadze/ai-media-perception): Analysing sentiment in AI-themed cinema and literature.
 - **Hate-Watch Algorithmic Audit:** (Coming Soon) Exploring how media landscapes transform engagement into industry.
 
-## Currently Reading
-- *Currently diving into:* Your Face Belongs to Us: The Secretive AI Startup Dismantling Your Privacy By Kashmir Hill.
-- *Technical focus:* AI Ethics
+## Currently Reading 
+- Your Face Belongs to Us: The Secretive AI Startup Dismantling Your Privacy By Kashmir Hill: Non-Fiction. Investigative Tech.
+- Red Rising by Pierce Brown: Dystopian. Sci-Fi.
 
 ---
 
 ### Let's Connect!
-- LinkedIn:www.linkedin.com/in/anna-kapanadze
-- 📍 Based in London, UK
+- My LinkedIn: www.linkedin.com/in/anna-kapanadze
+- Based in London, UK
 
 <!-----
 ### 📊 My AI Journey & Stats
