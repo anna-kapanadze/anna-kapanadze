@@ -12,7 +12,7 @@ My research sits at the intersection of **AI**, **Pop Culture**, and **Media The
 -  **Passions:** Avid reader of fantasy/sci-fi and non-fiction AI literature. Big fan of film, and cinematic AI tropes.
 
 ## Current Projects
-- [**AI-Media-Perception**]: Analysing sentiment in AI-themed cinema and literature.
+- **AI-Media-Perception**: Analysing sentiment in AI-themed cinema and literature.
 - **Hate-Watch Algorithmic Audit:** (Coming Soon) Exploring how media landscapes transform engagement into industry.
 
 ## Currently Reading 
