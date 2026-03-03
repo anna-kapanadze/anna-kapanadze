@@ -7,8 +7,7 @@
 ## What I'm Exploring
 My research sits at the intersection of **AI**, **Pop Culture**, and **Media Theory**
 
--  **Currently Learning:** Machine Learning, Statistical Foundations, & Python for AI.
--  **Focus Area:** AI Ethics & Regulation.
+-  **Currently Learning:** Machine Learning, Statistical Foundations, AI Ethics/Regulation & Python for AI.
 -  **Passions:** Avid reader of fantasy/sci-fi and non-fiction AI literature. Big fan of film, and cinematic AI tropes.
 
 ## Current Projects
