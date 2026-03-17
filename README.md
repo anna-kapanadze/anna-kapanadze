@@ -12,7 +12,7 @@ My research sits at the intersection of **AI**, **Society**, and **Media Theory*
 
 ## Current Projects
 - Gender Data Gap in ASR: An empirical audit of Automatic Speech Recognition accuracy across gender ratios, inspired by Invisible Women by Caroline Criado Perez.
-- Theology & AI Ethics: Authoring a moral framework for Christian communities regarding the status and societal implications of AI.
+- Theology & AI Ethics: Authoring a book for Christian communities regarding the status and societal implications of AI.
 - Major Project (Details TBC): An AI-powered character visualisation platform for book readers. Spoiler-safe & community-driven.
 
 ## Currently Reading 
