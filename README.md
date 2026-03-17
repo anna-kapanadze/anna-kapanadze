@@ -5,18 +5,19 @@
 ---
 
 ## What I'm Exploring
-My research sits at the intersection of **AI**, **Pop Culture**, and **Media Theory**
+My research sits at the intersection of **AI**, **Society**, and **Media Theory**
 
--  **Currently Learning:** Machine Learning, Statistical Foundations, AI Ethics/Regulation & Python for AI.
+-  **Current Studies:** Machine Learning, Statistical Foundations, AI Ethics/Regulation & Python for AI.
 -  **Passions:** Avid reader of fantasy/sci-fi and non-fiction AI literature. Big fan of film, and cinematic AI tropes.
 
 ## Current Projects
-- **AI-Media-Perception**: Analysing sentiment in AI-themed cinema and literature.
-- **Hate-Watch Algorithmic Audit:** (Coming Soon) Exploring how media landscapes transform engagement into industry.
+- Gender Data Gap in ASR: An empirical audit of Automatic Speech Recognition accuracy across gender ratios, inspired by Invisible Women by Caroline Criado Perez.
+- Theology & AI Ethics: Authoring a moral framework for Christian communities regarding the status and societal implications of AI.
+- Major Project (Details TBC): An AI-powered character visualisation platform for book readers. Spoiler-safe & community-driven.
 
 ## Currently Reading 
-- Your Face Belongs to Us: The Secretive AI Startup Dismantling Your Privacy By Kashmir Hill: Non-Fiction. Investigative Tech.
-- Red Rising by Pierce Brown: Dystopian. Sci-Fi.
+- Naked Statistics: Stripping the Dread from the Data by Charles Wheelan.
+- Golden Son by Pierce Brown: Dystopian. Sci-Fi.
 
 ---
 
