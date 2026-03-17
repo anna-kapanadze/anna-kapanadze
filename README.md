@@ -7,7 +7,7 @@
 ## What I'm Exploring
 My research sits at the intersection of **AI**, **Society**, and **Media Theory**
 
--  **Current Studies:** Machine Learning, Statistical Foundations, AI Ethics/Regulation & Python for AI.
+-  **Current Studies:** Machine Learning, Statistics, AI Ethics/Regulation & Python for AI.
 -  **Passions:** Avid reader of fantasy/sci-fi and non-fiction AI literature. Big fan of film, and cinematic AI tropes.
 
 ## Current Projects
