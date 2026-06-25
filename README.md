@@ -1,28 +1,30 @@
 # Hi, I'm Anna Kapanadze 👋
 
-### AI MSc | Media & Journalism | "Pop Culturist"
+### MSc Artificial Intelligence
 
 ---
 
 ## What I'm Exploring
-My research sits at the intersection of **AI**, **Society**, and **Media Theory**
+My research sits at the intersection of **AI**, **Society**, and **Media**
 
--  **Current Studies:** Machine Learning, Statistics, AI Ethics/Regulation & Python for AI.
--  **Passions:** Avid reader of fantasy/sci-fi and non-fiction AI literature. Big fan of film, and cinematic AI tropes.
+-  **Areas of Study Include:** Machine Learning, Neural Networks & Deep Learning, Statistics, AI Ethics/Regulation, Applications of AI, Risk & Decision-Making & Python for AI.
+-  **Passions:** Avid reader of fantasy/sci-fi and non-fiction AI literature. Big fan of film & cinema.
 
-## Current Projects
+## Projects
 - Gender Data Gap in ASR: An empirical audit of Automatic Speech Recognition accuracy across gender ratios, inspired by Invisible Women by Caroline Criado Perez.
-- Theology & AI Ethics: Authoring a book for Christian communities regarding the status and societal implications of AI.
-- Major Project (Details TBC): An AI-powered character visualisation platform for book readers. Spoiler-safe & community-driven.
+- AI Agent Supervision Paradox (Dissertation, in progress): Testing how confidence displays and friction affect human oversight of AI-generated content.
+- App - Bookshelf Scanner: Web app that scans bookshelf photos and recommends read. Using zero-shot LLM genre classification & KNN recommender.
+- Multiclass Song Genre Classification: Audio-feature pipeline benchmarking SVM, Random Forest, and Logistic Regression.
 
 ## Currently Reading 
-- Naked Statistics: Stripping the Dread from the Data by Charles Wheelan.
-- Golden Son by Pierce Brown: Dystopian. Sci-Fi.
+- Discrimination and Disparities by Thomas Sowell.
+- Dungeon Crawler Carl. Sci-Fi, Fantasy, LitRPG.
 
 ---
 
 ### Let's Connect!
 - My LinkedIn: www.linkedin.com/in/anna-kapanadze
+- My Substack: https://substack.com/@annakapanadze
 - Based in London, UK
 
 <!-----
