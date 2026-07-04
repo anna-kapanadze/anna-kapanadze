@@ -5,7 +5,7 @@
 ---
 
 ## What I'm Exploring
-My research sits at the intersection of **AI**, **Society**, and **Media**
+My interests sit at the intersection of **AI**, **Society**, and **Media**
 
 -  **Areas of Study Include:** Machine Learning, Neural Networks & Deep Learning, Statistics, AI Ethics/Regulation, Applications of AI, Risk & Decision-Making & Python for AI.
 -  **Passions:** Avid reader of fantasy/sci-fi and non-fiction AI literature. Big fan of film & cinema.
