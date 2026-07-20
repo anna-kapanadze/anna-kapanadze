@@ -17,8 +17,8 @@ My interests sit at the intersection of **AI**, **Society**, and **Media**
 - Multiclass Song Genre Classification: Audio-feature pipeline benchmarking SVM, Random Forest, and Logistic Regression.
 
 ## Currently Reading 
-- Discrimination and Disparities by Thomas Sowell.
-- Dungeon Crawler Carl. Sci-Fi, Fantasy, LitRPG.
+- Why Machines Learn: The Elegant Math Behind Modern AI by Anil Ananthaswamy. 
+- The Secret History by Donna Tartt. Dark Academia. Lit-Fic.
 
 ---
 
