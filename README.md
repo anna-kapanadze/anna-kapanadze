@@ -12,7 +12,6 @@ My interests sit at the intersection of **AI**, **Society**, and **Media**
 
 ## Projects
 - Gender Data Gap in ASR: An empirical audit of Automatic Speech Recognition accuracy across gender ratios, inspired by Invisible Women by Caroline Criado Perez.
-- AI Agent Supervision Paradox (Dissertation, in progress): Testing how confidence displays and friction affect human oversight of AI-generated content.
 - App - Bookshelf Scanner: Web app that scans bookshelf photos and recommends read. Using zero-shot LLM genre classification & KNN recommender.
 - Multiclass Song Genre Classification: Audio-feature pipeline benchmarking SVM, Random Forest, and Logistic Regression.
 
