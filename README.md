@@ -17,7 +17,7 @@ My interests sit at the intersection of **AI**, **Society**, and **Media**
 
 ## Currently Reading 
 - Why Machines Learn: The Elegant Math Behind Modern AI by Anil Ananthaswamy. 
-- The Secret History by Donna Tartt. Dark Academia. Lit-Fic.
+- Crime and Punishment by Dostoevsky.
 
 ---
 
